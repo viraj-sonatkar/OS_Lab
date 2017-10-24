@@ -1,0 +1,1 @@
+Hello,This is being read as a part of the string pipe sharing.Bye.
